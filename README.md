@@ -1,3 +1,3 @@
 # Data_Science_Codeacademy
 
-##sdsfjknvnf
+A series of python notebooks where portfolio projects from codeacademy's data science project has been worked out. 
